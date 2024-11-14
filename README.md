@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Apasionado de los ordenadores, los videojuegos y todo lo relacionado con la electrónica.
+Siempre cacharreando, explorando nuevas tecnologías y creando proyectos.
 <!--
 **trebellarInc/trebellarinc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
