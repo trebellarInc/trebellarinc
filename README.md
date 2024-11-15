@@ -1,4 +1,4 @@
-## Hi there 👋
+## HOLA 👋
 
 Apasionado de los ordenadores, los videojuegos y todo lo relacionado con la electrónica.
 Siempre cacharreando, explorando nuevas tecnologías y creando proyectos.
